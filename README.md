@@ -3,5 +3,3 @@ fentch 1
 fentch 1 -- child 
 fentch 2 
 fentch 2 -- child
-
-dotest 
