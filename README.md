@@ -5,4 +5,8 @@ fenthc 2
 
 
 perry-pick
+fentch 1 -- child 
+fentch 2 
+fentch 2 -- child
+fentch 2 -- child --child
 
